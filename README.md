@@ -1,2 +1,2 @@
 # git-course
-practicing
+Iam editing the README.md adding some details
